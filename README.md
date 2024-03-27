@@ -11,13 +11,19 @@
   <img src="https://raw.githubusercontent.com/RenatoMor/repo_img/main/img/Signal.gif" alt="Sample signal" width="70%" height="70%">
 </p>
 
-<h5> I ❤️ Back-End Development!</h5>
+<h5 aling> I <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beating%20Heart.png" alt="Beating Heart" width="20" height="20" /> Back-End Development!</h5>
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-<h3 >Encontre-me  </h3>
+<div style="text-align: center;">
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="25" height="25" style="vertical-align: -8px;" />
+    <span style="vertical-align: middle;">Encontre-me</span>
+</div>
 
-<iframe src="https://giphy.com/embed/OhkMiKX0uMmLC" width="398" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/watch-apple-alle-OhkMiKX0uMmLC">via GIPHY</a></p>
+<br>
+
+
+
 
 <p align="center">
     <a href="https://www.linkedin.com/in/renatomoreira-rm/" target="_blank">
