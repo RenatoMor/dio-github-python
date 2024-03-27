@@ -52,7 +52,7 @@
 
 - [Descrição](#-descrição)
 - [Programas](#-programas)
-- [Descrição dos Programas](#-descrição-dos-programas)
+- [Propósito Central do Projeto](#-propósito-central-do-projeto)
 - [Licença](#licença)
 - [Agradecimentos](#agradecimentos-tada)
 
@@ -93,7 +93,8 @@ O objetivos deste repositório são:
 - [Sorteando um Item na Lista](./Exercicios_Python/019%20-%20Sorteando%20um%20item%20na%20lista.py)
 - [Sorteando uma ordem na lista](./Exercicios_Python/020%20-%20Sorteando%20uma%20ordem%20na%20lista.py)
 
-## 📜 Descrição dos Programas
+## 🎯 Propósito Central do Projeto
+
 
 A seguir, são apresentados os programas Python que foram resolvidos para praticar a linguagem de programação Python e aprimorar minhas habilidades de programação. Cada programa é um exercício que resolve um problema específico. Os programas são simples e fáceis de entender, mas são úteis para praticar a sintaxe e a lógica de programação em Python.
 
