@@ -52,6 +52,7 @@
 
 - [Descrição](#-descrição)
 - [Programas](#-programas)
+- [Descrição dos Programas](#-descrição-dos-programas)
 - [Licença](#licença)
 - [Agradecimentos](#agradecimentos-tada)
 
@@ -91,6 +92,12 @@ O objetivos deste repositório são:
 - [Seno, Cosseno e Tangente](./Exercicios_Python/018%20-%20Seno,%20Cosseno%20e%20Tangente.py)
 - [Sorteando um Item na Lista](./Exercicios_Python/019%20-%20Sorteando%20um%20item%20na%20lista.py)
 - [Sorteando uma ordem na lista](./Exercicios_Python/020%20-%20Sorteando%20uma%20ordem%20na%20lista.py)
+
+## 📜 Descrição dos Programas
+
+A seguir, são apresentados os programas Python que foram resolvidos para praticar a linguagem de programação Python e aprimorar minhas habilidades de programação. Cada programa é um exercício que resolve um problema específico. Os programas são simples e fáceis de entender, mas são úteis para praticar a sintaxe e a lógica de programação em Python.
+
+O objetivo principal desses 20 programas é gerar um conteúdo para praticas as funcionalidades do `GitHub`, como `issues`, `pull requests`, `wiki`, `branches`, `forks`, `releases`, `tags`, `GitHub Pages`, `GitHub Actions`, `GitHub CLI`, `GitHub Desktop`, `GitHub Gist`, `GitHub Copilot`, `GitHub Codespaces`, `GitHub Discussions`, `GitHub Sponsors`, `GitHub Security Lab`, `GitHub Archive Program`, `GitHub Education`, `GitHub Learning Lab`, `GitHub Campus Experts`, `GitHub Stars`.
 
 ## 🚩 Deixando tudo pronto
 
