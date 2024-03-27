@@ -1,3 +1,4 @@
+
 <p align="center"> 
   <img src="https://raw.githubusercontent.com/RenatoMor/repo_img/main/img/220.png" alt="HAR Logo" width="980px" height="120px">
 </p>
@@ -14,7 +15,9 @@
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-<h3 >Encontre-me :handshake: </h3>
+<h3 >Encontre-me  </h3>
+
+<iframe src="https://giphy.com/embed/OhkMiKX0uMmLC" width="398" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/watch-apple-alle-OhkMiKX0uMmLC">via GIPHY</a></p>
 
 <p align="center">
     <a href="https://www.linkedin.com/in/renatomoreira-rm/" target="_blank">
@@ -44,150 +47,72 @@
 
 ## Menu
 
-- [Descrição](#descrição)
-- [Projetos](#projetos)
-- [P1 - Concatenar Strings](#p1---concatenar-strings)
-- [P2 - Operações Matemáticas Simples](#p2---operações-matemáticas-simples)
-- [P3 - Repetindo Textos](#p3---repetindo-textos)
-- [P4 - Catetos e Hipotenusa](#p4---catetos-e-hipotenusa)
-- [P5 - Conversor de Medidas](#p5---conversor-de-medidas)
-- [Utilização do GitHub Copilot](#utilização-do-github-copilot)
-- [Como Contribuir](#como-contribuir)
 - [Licença](#licença)
 - [Agradecimentos](#agradecimentos-tada)
 
 
 ## Descrição
 
-Este repositório contém projetos desenvolvidos durante a formação em GitHub da DIO (Digital Innovation One).
+Este repositório contém uma série de exercícios de Python que foram resolvidos com o objetivo de praticar a linguagem de programação Python e aprimorar minhas habilidades de programação. Os exercícios foram resolvidos com base em um curso de Python que fiz na Digital Innovation One. Cada exercício é um programa Python que resolve um problema específico. Os programas são simples e fáceis de entender, mas são úteis para praticar a sintaxe e a lógica de programação em Python.
 
-Neste repositório, você encontrará uma coleção de projetos práticos que foram desenvolvidos durante a formação em GitHub. Cada projeto está em sua própria pasta e contém um README separado com instruções detalhadas sobre como executar e utilizar o projeto.
+O objetivos deste repositório são:
 
-## Projetos
+- Aprender a usar o GitHub para compartilhar projetos, colaborar com outros desenvolvedores, gerenciar projetos e documentar, publicar projetos de programas, 
 
-- [Projeto 1](p1%20-%20info_concat.py): Concatenação de Strings
-- [Projeto 2](p2%20-%20op_matemat_simples.py): Operações Matemáticas Simples
-- [Projeto 3](p3%20-%20repetindo_textos.py): Repetindo Textos
-- [Projeto 4](p4%20-%20catetos_e_hipotenusa.py): Catetos e Hipotenusa
-- [Projeto 3](p5%20-%20conversor_de_medidas.py): Conversor de Medidas
+- Aprender a usar os diversos recursos do GitHub, como issues, pull requests, branches, forks, releases, tags, GitHub Pages, GitHub Actions, GitHub CLI, GitHub Desktop, GitHub Gist, GitHub Copilot, GitHub Codespaces, GitHub Discussions, GitHub Sponsors, GitHub Security Lab, GitHub Archive Program, GitHub Education, GitHub Learning Lab, GitHub Campus Experts, GitHub Stars.
+- Implementar os códigos com abordagens diferentes.
 
-## P1 - Concatenar Strings
+- Criar abordagens com o uso de funções, classes, módulos, pacotes, programação orientada a objetos.
 
-Neste projeto, o objetivo é realizar a concatenação de duas strings informadas pelo usuário.
+## Programas
 
-### GitHub Copilot
+- [Deixando tudo pronto](./Exercicios_Python/001%20-%20Deixando%20tudo%20pronto.py)
+- [Respondendo ao usuário](./Exercicios_Python/002%20-%20Respondendo%20ao%20Usuário.py)
+- [Somando dois números](./Exercicios_Python/003%20-%20Somando%20dois%20números.py)
+- [Dissecando uma variável](./Exercicios_Python/004%20-%20Dissecando%20uma%20Variável.py)
+- [Antecessor e Sucessor](./Exercicios_Python/005%20-%20Antecessor%20e%20Sucessor.py)
+- [Dobro, Triplo e Raiz Quadrada](./Exercicios_Python/006%20-%20Dobro,%20Triplo,%20Raiz%20Quadrada.py)
+- [Média Aritmética](./Exercicios_Python/007%20-%20Média%20Aritmética.py)
+- [Conversor de Medidas](./Exercicios_Python/008%20-%20Conversor%20de%20Medidas.py)
+- [Tabuada](./Exercicios_Python/009%20-%20Tabuada.py)
+- [Conversor de Moedas](./Exercicios_Python/010%20-%20Conversor%20de%20Moedas.py)
+- [Pintando Parede](./Exercicios_Python/011%20-%20Pintando%20Parede.py)
+- [Calculando Descontos](./Exercicios_Python/012%20-%20Calculando%20Descontos.py)
+- [Reajuste Salarial](./Exercicios_Python/013%20-%20Reajuste%20Salarial.py)
+- [Conversor de Temperaturas](./Exercicios_Python/014%20-%20Conversor%20de%20Temperaturas.py)
+- [Aluguel de carros](./Exercicios_Python/015%20-%20Aluguel%20de%20Carros.py)
+- [Quebrando um número](./Exercicios_Python/016%20-%20Quebrando%20um%20número.py)
+- [Catetos e Hipotenusa](./Exercicios_Python/017%20-%20Catetos%20e%20Hipotenusa.py)
+- [Seno, Cosseno e Tangente](./Exercicios_Python/018%20-%20Seno,%20Cosseno%20e%20Tangente.py)
+- [Sorteando um Item na Lista](./Exercicios_Python/019%20-%20Sorteando%20um%20item%20na%20lista.py)
+- [Sorteando uma ordem na lista](./Exercicios_Python/020%20-%20Sorteando%20uma%20ordem%20na%20lista.py)
 
-Utilizei o Git Copilot para gerar o código de exemplo abaixo, que utiliza a biblioteca `colored` para adicionar cores ao texto.
+## Deixando tudo pronto
 
-### Exemplo de uso
+```python   
+print('Olá, Mundo!')
+```
+**Explicação do código:**
+
+Este é um programa simples que imprime a mensagem "Olá, Mundo!" na tela. O programa é escrito em Python e consiste em uma única linha de código. A função `print()` é usada para imprimir a mensagem na tela. A mensagem é passada como um argumento para a função `print()`. O texto da mensagem é colocado entre aspas simples ou duplas. O programa imprime a mensagem "Olá, Mundo!" na tela quando é executado.
+
+## Respondendo ao usuário
 
 ```python
-print("A concatenação dos valores informados:", colored(
-    info_concatenadas, 'yellow', attrs=['bold', 'underline']))
+nome = str(input("Informe seu nome: "))
+print("É um prazer de conhecer, {}!".format(nome))
 ```
+**Explicação do código:**
 
-## P2 - Operações Matemáticas Simples
+Este é um programa simples que solicita ao usuário que informe seu nome e, em seguida, imprime uma mensagem de saudação personalizada. O programa é escrito em Python e consiste em duas linhas de código. A função `input()` é usada para solicitar ao usuário que informe seu nome. O texto da mensagem é passado como um argumento para a função `input()`. O valor digitado pelo usuário é armazenado em uma variável chamada `nome`. Em seguida, a função `print()` é usada para imprimir uma mensagem de saudação personalizada que inclui o nome informado pelo usuário. O nome é inserido na mensagem usando a função `format()`.
 
-Neste projeto, o objetivo é realizar operações matemáticas simples com dois números informados pelo usuário.
+## Somando dois números
 
-Utilizei o Git Copilot para trazer uma abordagem com importação da biblioteca `operator` para realizar as operações matemáticas, resultando em um código mais limpo e organizado.
+```python 
 
-### Biblioteca `operator`
 
-```python
-import operator
-```
+...
 
-```python
-operacoes = {
-    '+': operator.add,
-    '-': operator.sub,
-    '*': operator.mul,
-    '/': operator.truediv
-}
-```
-
-## P3 - Repetindo Textos
-
-Neste projeto, o objetivo é repetir um texto informado pelo usuário um número de vezes também informado pelo usuário.
-
-**Repetindo textos v1:** Nesta abordagem sem a utilização do `GitHub Copilot`, o texto é repetido sem implementar nenhuma formatação adicional na saída
-
-```python	
-Output:
-
-print(resultado)
-```
-
-### GitHub Copilot
-
-**Repetindo textos v2:** Nesta abordagem com a utilização do `GitHub Copilot`, o texto é repetido com um caractere separador entre cada repetição e a saída é formatada em uma tabela.
-
-```python	
-Output:
-
-print(f"{'\n\rTexto':<10} {'Repetições':<15} {'Resultado':<10}")
-print(f"{texto:<10} {repetir:<15} {resultado:<10}")
-```
-
-## P4 - Catetos e Hipotenusa
-
-Neste projeto, o objetivo é calcular a hipotenusa de um triângulo retângulo com base nos catetos informados pelo usuário.
-
-O programa que lê o comprimento do cateto oposto e do cateto adjacente de um triângulo retângulo. Calcula e mostra o comprimento da hipotenusa.
-
-### GitHub Copilot
-
-O Git Copilot foi utilizado para sugerir uma fórmula matemática com o uso de biblioteca `math` para calcular a hipotenusa de um triângulo retângulo.
-
-```python
-from math import hypot
-```
-
-## P5 - Conversor de Medidas
-
-Neste projeto, o objetivo é converter uma medida informada pelo usuário de metros para centímetros e milímetros.
-
-O programa que lê uma medida em metros e mostra o valor convertido em centímetros e milímetros.
-
-### GitHub Copilot
-
-O Git Copilot foi utilizado para sugerir a fórmula matemática para realizar a conversão de metros para centímetros e milímetros.
-
-```python
-Versão 1: com a utilização do GitHub Copilot
-
-import math
-
-m = float(input("Uma distância em metros: "))
-cm = math.floor(m * 100)
-mm = math.floor(m * 1000)
-
-print("{}m corresponde a {}cm e {}mm".format(m, cm, mm))
-```
-
-```python
-Versão 2: sem a utilização do GitHub Copilot
-m = float(input("Uma distância em metros: "))
-cm = m * 100
-mm = m * 1000
-
-print("{}m corresponde a {}cm e {}mm".format(m, cm, mm))
-```
-
-## Utilização do GitHub Copilot
-
-O Git Copilot é uma ferramenta de assistência de programação baseada em inteligência artificial que pode ajudar a gerar código automaticamente. Ele pode sugerir trechos de código, completar linhas de código e fornecer exemplos de implementação.
-
-    Para utilizar o GitHub Copilot, siga as etapas abaixo:
-
-1. Certifique-se de ter o Git Copilot instalado em seu ambiente de desenvolvimento.
-2. Abra o arquivo em que deseja utilizar o Git Copilot.
-3. Digite o código que você deseja completar ou gerar.
-4. O Git Copilot irá analisar o contexto e fornecer sugestões de código.
-5. Selecione a sugestão desejada e o Git Copilot irá inserir o código no seu arquivo.
-
-Lembre-se de revisar e ajustar o código gerado pelo Git Copilot para atender às suas necessidades específicas.
 
 ## Como Contribuir
 

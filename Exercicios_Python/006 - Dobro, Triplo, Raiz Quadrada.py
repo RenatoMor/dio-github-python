@@ -1,5 +1,4 @@
-#   Exercício Python 006 - Dobro, Triplo, Raiz Quadrada
-#   Crie um algoritmo que leia um número e mostre o seu dobro, triplo e raiz quadrada.
+# Programa que leia um número e mostre o seu dobro, triplo e raiz quadrada.
 
 from time import sleep
 
