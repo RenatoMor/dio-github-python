@@ -11,7 +11,7 @@
   <img src="https://raw.githubusercontent.com/RenatoMor/repo_img/main/img/Signal.gif" alt="Sample signal" width="70%" height="70%">
 </p>
 
-<h5 aling> I <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beating%20Heart.png" alt="Beating Heart" width="20" height="20" /> Back-End Development!</h5>
+<h5> I <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beating%20Heart.png" alt="Beating Heart" width="20" height="20" /> Back-End Development!</h5>
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
@@ -21,9 +21,6 @@
 </div>
 
 <br>
-
-
-
 
 <p align="center">
     <a href="https://www.linkedin.com/in/renatomoreira-rm/" target="_blank">
@@ -53,11 +50,13 @@
 
 ## Menu
 
+- [Descrição](#-descrição)
+- [Programas](#-programas)
 - [Licença](#licença)
 - [Agradecimentos](#agradecimentos-tada)
 
 
-## Descrição
+## 📜 Descrição
 
 Este repositório contém uma série de exercícios de Python que foram resolvidos com o objetivo de praticar a linguagem de programação Python e aprimorar minhas habilidades de programação. Os exercícios foram resolvidos com base em um curso de Python que fiz na Digital Innovation One. Cada exercício é um programa Python que resolve um problema específico. Os programas são simples e fáceis de entender, mas são úteis para praticar a sintaxe e a lógica de programação em Python.
 
@@ -70,7 +69,7 @@ O objetivos deste repositório são:
 
 - Criar abordagens com o uso de funções, classes, módulos, pacotes, programação orientada a objetos.
 
-## Programas
+## ⚙️ Programas
 
 - [Deixando tudo pronto](./Exercicios_Python/001%20-%20Deixando%20tudo%20pronto.py)
 - [Respondendo ao usuário](./Exercicios_Python/002%20-%20Respondendo%20ao%20Usuário.py)
@@ -93,7 +92,7 @@ O objetivos deste repositório são:
 - [Sorteando um Item na Lista](./Exercicios_Python/019%20-%20Sorteando%20um%20item%20na%20lista.py)
 - [Sorteando uma ordem na lista](./Exercicios_Python/020%20-%20Sorteando%20uma%20ordem%20na%20lista.py)
 
-## Deixando tudo pronto
+## 🚩 Deixando tudo pronto
 
 ```python   
 print('Olá, Mundo!')
@@ -102,7 +101,7 @@ print('Olá, Mundo!')
 
 Este é um programa simples que imprime a mensagem "Olá, Mundo!" na tela. O programa é escrito em Python e consiste em uma única linha de código. A função `print()` é usada para imprimir a mensagem na tela. A mensagem é passada como um argumento para a função `print()`. O texto da mensagem é colocado entre aspas simples ou duplas. O programa imprime a mensagem "Olá, Mundo!" na tela quando é executado.
 
-## Respondendo ao usuário
+## 📩 Respondendo ao usuário
 
 ```python
 nome = str(input("Informe seu nome: "))
@@ -112,7 +111,7 @@ print("É um prazer de conhecer, {}!".format(nome))
 
 Este é um programa simples que solicita ao usuário que informe seu nome e, em seguida, imprime uma mensagem de saudação personalizada. O programa é escrito em Python e consiste em duas linhas de código. A função `input()` é usada para solicitar ao usuário que informe seu nome. O texto da mensagem é passado como um argumento para a função `input()`. O valor digitado pelo usuário é armazenado em uma variável chamada `nome`. Em seguida, a função `print()` é usada para imprimir uma mensagem de saudação personalizada que inclui o nome informado pelo usuário. O nome é inserido na mensagem usando a função `format()`.
 
-## Somando dois números
+## ➕ Somando dois números
 
 ```python 
 
