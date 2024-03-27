@@ -1,6 +1,6 @@
 
 <p align="center"> 
-  <img src="https://raw.githubusercontent.com/RenatoMor/repo_img/main/img/220.png" alt="HAR Logo" width="720px" height="100px">
+  <img src="https://raw.githubusercontent.com/RenatoMor/repo_img/main/img/220.png" alt="HAR Logo" width="720px" height="110px">
 </p>
 
 <h1 align="center">Formação GitHub Certification</h1>
@@ -17,14 +17,12 @@
 
 <br>
 
-<div style="text-align: rigth;">
+<div style="text-align: center;">
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="25" height="25" style="vertical-align: top;" />
     <span style="vertical-align: middle; font-size: 18px;"><b>Encontre-me</b></span>
 </div>
 
--------------
 
-<br>
 
 <p align="center">
     <a href="https://www.linkedin.com/in/renatomoreira-rm/" target="_blank">
