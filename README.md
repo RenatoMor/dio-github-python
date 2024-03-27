@@ -50,9 +50,10 @@
 
 ## Menu
 
-- [Descrição](#-descrição)
-- [Programas](#-programas)
+- [Descrição](#descrição)
+- [Programas](#programas)
 - [Propósito Central do Projeto](#-propósito-central-do-projeto)
+- [Como Contribuir](#como-contribuir)
 - [Licença](#licença)
 - [Agradecimentos](#agradecimentos-tada)
 
@@ -101,7 +102,7 @@ A seguir, são apresentados os programas Python que foram resolvidos para pratic
 O objetivo principal desses 20 programas é gerar um conteúdo para praticas as funcionalidades do `GitHub`, como `issues`, `pull requests`, `wiki`, `branches`, `forks`, `releases`, `tags`, `GitHub Pages`, `GitHub Actions`, `GitHub CLI`, `GitHub Desktop`, `GitHub Gist`, `GitHub Copilot`, `GitHub Codespaces`, `GitHub Discussions`, `GitHub Sponsors`, `GitHub Security Lab`, `GitHub Archive Program`, `GitHub Education`, `GitHub Learning Lab`, `GitHub Campus Experts`, `GitHub Stars`.
 
 
-## Como Contribuir
+## 🎁 Como Contribuir
 
 Se você deseja contribuir para este repositório, siga as etapas abaixo:
 
