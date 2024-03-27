@@ -1,24 +1,28 @@
 
 <p align="center"> 
-  <img src="https://raw.githubusercontent.com/RenatoMor/repo_img/main/img/220.png" alt="HAR Logo" width="980px" height="120px">
+  <img src="https://raw.githubusercontent.com/RenatoMor/repo_img/main/img/220.png" alt="HAR Logo" width="720px" height="100px">
 </p>
 
 <h1 align="center">Formação GitHub Certification</h1>
 
 <h2 align="center">Projeto: Utilizando as Ferramentas do Github para Solucionar Algoritmos em Python</h2>
 
+<h5 align="center"> I <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beating%20Heart.png" alt="Beating Heart" width="20" height="20" /> Back-End Development!</h5>
+
 <p align="center"> 
-  <img src="https://raw.githubusercontent.com/RenatoMor/repo_img/main/img/Signal.gif" alt="Sample signal" width="70%" height="70%">
+  <img src="https://raw.githubusercontent.com/RenatoMor/repo_img/main/img/Signal.gif" alt="Sample signal" width="50%" height="50%">
 </p>
 
-<h5> I <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beating%20Heart.png" alt="Beating Heart" width="20" height="20" /> Back-End Development!</h5>
+---------
 
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+<br>
 
-<div style="text-align: center;">
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="25" height="25" style="vertical-align: -8px;" />
-    <span style="vertical-align: middle;">Encontre-me</span>
+<div style="text-align: rigth;">
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="25" height="25" style="vertical-align: top;" />
+    <span style="vertical-align: middle; font-size: 18px;"><b>Encontre-me</b></span>
 </div>
+
+-------------
 
 <br>
 
@@ -44,11 +48,8 @@
     </a>
 </p>
 </p>
-<br>
 
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
-
-## Menu
+## 📌 Menu
 
 - [Descrição](#-descrição)
 - [Programas](#-programas)
