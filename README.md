@@ -50,12 +50,14 @@
 
 ## Menu
 
-- [Descrição](#descrição)
-- [Programas](#programas)
+- [Descrição](#-descrição)
+- [Programas](#-programas)
 - [Propósito Central do Projeto](#-propósito-central-do-projeto)
-- [Como Contribuir](#como-contribuir)
-- [Licença](#licença)
-- [Agradecimentos](#agradecimentos-tada)
+- [Como Contribuir](#-como-contribuir)
+- [Licença](#-licença)
+- [Agradecimentos](#-agradecimentos)
+
+
 
 
 ## 📜 Descrição
@@ -71,7 +73,7 @@ O objetivos deste repositório são:
 
 - Criar abordagens com o uso de funções, classes, módulos, pacotes, programação orientada a objetos.
 
-## ⚙️ Programas
+## 🖥️ Programas
 
 - [Deixando tudo pronto](./Exercicios_Python/001%20-%20Deixando%20tudo%20pronto.py)
 - [Respondendo ao usuário](./Exercicios_Python/002%20-%20Respondendo%20ao%20Usuário.py)
@@ -113,11 +115,11 @@ Se você deseja contribuir para este repositório, siga as etapas abaixo:
 5. Faça o push para a branch criada: `git push origin minha-feature`.
 6. Abra um pull request neste repositório.
 
-## Licença
+## 🔓 Licença
 
 Este projeto está licenciado sob a [MIT License](LICENSE).
 
-## Agradecimentos :tada:
+## 🎉 Agradecimentos 
 
 **Digital Innovation One:** Agradeço à Digital Innovation One por proporcionar recursos educacionais valiosos que contribuíram para o desenvolvimento dos meus projetos.
 
