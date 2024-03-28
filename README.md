@@ -12,16 +12,14 @@
 <p align="center"> 
   <img src="https://raw.githubusercontent.com/RenatoMor/repo_img/main/img/Signal.gif" alt="Sample signal" width="50%" height="50%">
 </p>
-
----------
-
 <br>
 
-<div style="text-align: center;">
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="25" height="25" style="vertical-align: top;" />
-    <span style="vertical-align: middle; font-size: 18px;"><b>Encontre-me</b></span>
-</div>
+<!-- <a style="text-align: center;">
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="25" height="25" style="vertical-align: top; " />
+    <h2 align="center">Encontre-me</h2> -->
+</a>
 
+## 👀 Encontre-me
 
 
 <p align="center">
